@@ -9,7 +9,7 @@ function App() {
       {/* //Helmet */}
       <Helmet>
         <meta charSet="utf-8" />
-        <title>My Todo</title>
+        <title>Todo</title>
         <link rel="canonical" href="/home" />
       </Helmet>
       ;
